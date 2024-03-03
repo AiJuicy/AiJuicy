@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AiJuicy
+- 👋 Hi, I’m AiJuicy
 - 
 - 👀 I’m interested in creating scripts for cybersecurity purposes
 - 
@@ -8,9 +8,9 @@
 - 
 - 📫 How to reach me on https://youtube.com/@AiJuicy_?si=ujGh_Ini7lJLXl72 Make sure to Subscribe to my YouTube
 - 
-- Or chat me on WhatsApp  https://wa.me/message/Q42OT76ML4LWH1
+- Or chat me on WhatsApp  (https://wa.me/message/THIABJLJU7RLJ1)
 - 
-- We can use Termux for Android 😋🤪
+- you can run Debian on Termux for Android 🙂
 - 
 <!---
 AiJuicy/AiJuicy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
